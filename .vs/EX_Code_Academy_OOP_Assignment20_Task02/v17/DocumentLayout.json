@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AmrShaabanHPVictus\\Desktop\\programming\\c\u002B\u002B\\projects\\EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5BC3FD-D239-44FA-A88B-799D244E9505}|EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02.vcxproj|C:\\Users\\AmrShaabanHPVictus\\Desktop\\programming\\c\u002B\u002B\\projects\\EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A5BC3FD-D239-44FA-A88B-799D244E9505}|EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02.vcxproj|solutionrelative:EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EX_Code_Academy_OOP_Assignment20_Task02.cpp",
+              "DocumentMoniker": "C:\\Users\\AmrShaabanHPVictus\\Desktop\\programming\\c\u002B\u002B\\projects\\EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02.cpp",
+              "RelativeDocumentMoniker": "EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02.cpp",
+              "ToolTip": "C:\\Users\\AmrShaabanHPVictus\\Desktop\\programming\\c\u002B\u002B\\projects\\EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02.cpp",
+              "RelativeToolTip": "EX_Code_Academy_OOP_Assignment20_Task02\\EX_Code_Academy_OOP_Assignment20_Task02.cpp",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAIwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-18T08:18:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
